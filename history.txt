@@ -1,0 +1,92 @@
+commit 4f5b45ce737f4ab81804d996eb266cbfaf857e93 (HEAD -> master)
+Author: Shili88 <taili9736@gmail.com>
+Date:   Sat Sep 30 15:30:53 2023 +0100
+
+    changed the file name chorus2 to chorus
+
+commit 95ffede3130c2c98b416820b9c03174042af53fd
+Author: Shili88 <taili9736@gmail.com>
+Date:   Sat Sep 30 15:26:08 2023 +0100
+
+    delete chorus1.txt
+
+commit 1566e60cd97100c7ffb3dbc6a2b3089dc43a8dc1
+Author: Shili88 <taili9736@gmail.com>
+Date:   Sat Sep 30 15:10:58 2023 +0100
+
+    remove the blank place in the chorus2
+
+ommit 95ffede3130c2c98b416820b9c03174042af53fd
+Author: Shili88 <taili9736@gmail.com>
+Date:   Sat Sep 30 15:26:08 2023 +0100
+
+    delete chorus1.txt
+
+diff --git a/song.txt b/song.txt
+index e066e5f..034cc51 100644
+--- a/song.txt
++++ b/song.txt
+@@ -1,7 +1,5 @@
+ [Verse -1]
+ 
+-[Chorus -1]
+-
+ [Verse -2]
+ 
+ [Chorus -2]
+
+ commit 541b9d3034c55bc939c7b8749c4e8b7109af1544
+Author: Shili88 <taili9736@gmail.com>
+Date:   Sat Sep 30 14:54:32 2023 +0100
+
+    verse1 added
+
+diff --git a/verse1.txt b/verse1.txt
+new file mode 100644
+index 0000000..6234921
+--- /dev/null
++++ b/verse1.txt
+@@ -0,0 +1,4 @@
++Listen to the wind blow
++Watch the sun rise
++Run in the shadows
++Damn your love, damn your lies
+\ No newline at end of file
+
+commit c4e9bffa3f5d8644c65328ce823c7838ab7c5509
+Author: Shili88 <taili9736@gmail.com>
+Date:   Sat Sep 30 14:58:04 2023 +0100
+
+    verse2 text added
+
+diff --git a/verse2.txt b/verse2.txt
+new file mode 100644
+index 0000000..cf8d122
+--- /dev/null
++++ b/verse2.txt
+@@ -0,0 +1,6 @@
++Listen to the wind blow
++Down comes the night
++Run in the shadows
++Damn your love, damn your lies
++Break the silence
++Damn the dark, damn the light
+
+commit 4f5b45ce737f4ab81804d996eb266cbfaf857e93 (HEAD -> master)
+Author: Shili88 <taili9736@gmail.com>
+Date:   Sat Sep 30 15:30:53 2023 +0100
+
+    changed the file name chorus2 to chorus
+
+diff --git a/chorus.txt b/chorus.txt
+new file mode 100644
+index 0000000..8fd1cf6
+--- /dev/null
++++ b/chorus.txt
+@@ -0,0 +1,17 @@
++And if you don't love me now
++You will never love me again
++I can still hear you sayin'
++You would never break the chain
++(Never break the chain)
++And if you don't love me now
